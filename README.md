@@ -1,2 +1,2 @@
 ## Projemin fikri: 
->  günlük yaşantıya göre sera gazı üretim oranını hesaplayan site
+>  günlük yaşantıya göre kişisel sera gazı ayak izi oranını hesaplayan site
