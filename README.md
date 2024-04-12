@@ -1,2 +1,2 @@
 ## Projemin fikri: 
->  günlük yaşantıya göre dünyaya verdiğimiz kişisel CO2 miktarını hesaplayan site
+>  günlük yaşantıya göre kişisel sera gazı ayak izi oranını hesaplayan site
